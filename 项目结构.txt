@@ -1,0 +1,14 @@
+pdf_toolbox/
+├── main.py                 # 主程序入口
+├── ui.py                   # 主界面
+├── pdf_split.py           # PDF拆分功能
+├── pdf_merge.py           # PDF合并功能
+├── pdf_to_image.py        # PDF转图片功能
+├── pdf_image_extract.py   # PDF图片提取功能
+├── pdf_table_extract.py   # PDF表格提取功能
+├── pdf_text_extract.py    # PDF文本提取功能
+├── image_to_pdf.py        # 图片导入PDF功能
+├── batch_print.py         # 批量打印功能
+├── pdf_protect.py         # PDF保护功能
+├── pdf_preview.py         # PDF预览功能
+└── requirements.txt       # 依赖包

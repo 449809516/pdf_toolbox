@@ -1,0 +1,11 @@
+PyQt5>=5.15.0
+PyPDF2>=2.0.0
+pdf2image>=1.16.0
+pillow>=8.0.0
+pytesseract>=0.3.8
+pdfplumber>=0.7.0
+camelot-py>=0.10.1
+opencv-python>=4.5.0
+img2pdf>=0.4.0
+reportlab>=3.6.0
+PyInstaller>=5.0.0
