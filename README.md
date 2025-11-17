@@ -12,10 +12,6 @@ PDF工具箱使用说明
 
 3. 系统要求：
    - Windows 7/8/10/11
-   - 需要安装Poppler工具（用于PDF转图片）
+ 
    
-4. Poppler安装说明：
-   - 访问：https://github.com/oschwartz10612/poppler-windows/releases/
-   - 下载最新版本
-   - 解压到 C:\poppler 目录
-   - 确保 C:\poppler\Library\bin 目录存在
+<img width="1197" height="824" alt="image" src="https://github.com/user-attachments/assets/9b3a6fae-660f-4230-8f70-cb5e13f68171" />
